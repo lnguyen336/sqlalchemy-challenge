@@ -12,7 +12,7 @@ Plotted the analysis using Matplotlib.
 
 Precipitation Analysis
 
-![precipitation](Images/Precipitation.png)
+![precipitation](Images/precipitation.png)
 
 Stations Analysis
 
