@@ -14,6 +14,6 @@ Precipitation Analysis
 
 ![precipitation](Images/Precipitation.png)
 
-Temperature Analysis
+Stations Analysis
 
-![temperature](Images/temperature.png)
+![station-histogram](Images/station-histogram.png)
